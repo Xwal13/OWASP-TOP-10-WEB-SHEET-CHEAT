@@ -99,3 +99,12 @@
 4. 🔍 **Vulnerability Scanning:** Use Dependabot or OWASP Dependency-Check.  
 
 ---
+
+
+
+## 📚 References
+
+1. [OWASP Official Website](https://owasp.org/) 🌐  
+2. [OWASP Top 10 Documentation](https://owasp.org/www-project-top-ten/) 📄  
+3. [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) 📋
+
